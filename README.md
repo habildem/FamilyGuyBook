@@ -1,2 +1,1 @@
-# FamilyGuyBook
- 
+# Diving into the world of Family Guy once again! This time, we’ll get to know each character up close and personal. This project is packed with absurd and hilarious details you didn’t know you needed to know.
